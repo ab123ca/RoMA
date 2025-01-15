@@ -1,3 +1,3 @@
 ## RoMA
-The checkpoint folder holds the model parameters.
-The sample folder holds samples for visualization.
+The Model folder holds the model parameters.
+The Samples folder holds samples for visualization.
